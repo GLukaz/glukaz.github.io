@@ -1,0 +1,86 @@
+# Blender MTL File: 'Zombie.blend'
+# Material Count: 7
+
+newmtl BODY_2zombie
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Upwork munkak\\Zombie\\Texture_Zbrush_second\\Headzumbie female_003-NM1001.jpg
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Second_zombie\\Zombie_2.1_BODY_2zombie_BaseColor.png
+
+newmtl Bottom
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Downloads\\female-zombie\\textures\\zumbie female_Bottom_normal.png
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Clothes\\Zombie_ALL_Bottom_BaseColor.png
+
+newmtl Eyes
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Downloads\\female-zombie\\textures\\zumbie female_Body_diffuse.png
+
+newmtl Hoode_2zombie
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Upwork munkak\\Zombie\\Texture_Zbrush_second\\HeadBody_lp_003-NM1001.jpg
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Second_zombie\\Zombie_2.1_Hoode_2zombie_BaseColor.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Upwork munkak\\Zombie\\Texture_head\\1\\Headzumbie female_002-NM1001.jpg
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Body\\Mouth_Material.003_BaseColor.png
+map_Ns E:\\Upwork munkak\\Zombie\\Texture_Substance\\Body\\Mouth_Material.003_Roughness.png
+
+newmtl Top
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Downloads\\female-zombie\\textures\\zumbie female_Top_normal.png
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Clothes\\Zombie_ALL_Top_BaseColor.png
+
+newmtl Trouser_2zombie
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Upwork munkak\\Zombie\\Texture_Substance\\Second_zombie\\Zombie_2.1_Trouser_2zombie_Normal.png
+map_Kd E:\\Upwork munkak\\Zombie\\Texture_Substance\\Second_zombie\\Zombie_2.1_Trouser_2zombie_BaseColor.png
