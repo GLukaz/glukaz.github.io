@@ -406,7 +406,7 @@ class Game extends Phaser.Scene {
 const config = {
     type: Phaser.AUTO,
     parent: "game-container",
-    //backgroundColor: '#f5de00',
+    backgroundColor: '#f5de00',
     transparent:true,
     scale: {
         mode: Phaser.Scale.FIT,
