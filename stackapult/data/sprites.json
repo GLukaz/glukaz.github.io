@@ -396,6 +396,72 @@
   ],
   "filter": "point"
  },
+ "Pieces/I_Box_1x4": {
+  "file": "assets/art/Pieces/I_Box_1x4.png",
+  "w": 16,
+  "h": 64,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
+ "Pieces/I_Box_1x4_d1": {
+  "file": "assets/art/Pieces/I_Box_1x4_d1.png",
+  "w": 16,
+  "h": 64,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
+ "Pieces/I_Box_1x4_d2": {
+  "file": "assets/art/Pieces/I_Box_1x4_d2.png",
+  "w": 16,
+  "h": 64,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
+ "Pieces/I_Box_2x1": {
+  "file": "assets/art/Pieces/I_Box_2x1.png",
+  "w": 32,
+  "h": 16,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
+ "Pieces/I_Box_2x1_d1": {
+  "file": "assets/art/Pieces/I_Box_2x1_d1.png",
+  "w": 32,
+  "h": 16,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
+ "Pieces/I_Box_2x1_d2": {
+  "file": "assets/art/Pieces/I_Box_2x1_d2.png",
+  "w": 32,
+  "h": 16,
+  "ppu": 16,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "filter": "point"
+ },
  "Pieces/I_Box_3x1": {
   "file": "assets/art/Pieces/I_Box_3x1.png",
   "w": 48,
