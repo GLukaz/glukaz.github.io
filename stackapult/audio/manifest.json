@@ -1,0 +1,154 @@
+{
+ "sfx": {
+  "click": [
+   "audio/sfx/click_1.ogg",
+   "audio/sfx/click_2.ogg",
+   "audio/sfx/click_3.ogg"
+  ],
+  "star": [
+   "audio/sfx/star.ogg"
+  ],
+  "coin": [
+   "audio/sfx/coin.ogg"
+  ],
+  "upgrade": [
+   "audio/sfx/upgrade.ogg"
+  ],
+  "slabDrop": [
+   "audio/sfx/slabDrop_1.ogg",
+   "audio/sfx/slabDrop_2.ogg",
+   "audio/sfx/slabDrop_3.ogg",
+   "audio/sfx/slabDrop_4.ogg"
+  ],
+  "slabPerfect": [
+   "audio/sfx/slabPerfect.ogg"
+  ],
+  "slabMiss": [
+   "audio/sfx/slabMiss.ogg"
+  ],
+  "merge": [
+   "audio/sfx/merge.ogg"
+  ],
+  "catapultFire": [
+   "audio/sfx/catapultFire.ogg"
+  ],
+  "crateHit": [
+   "audio/sfx/crateHit_1.ogg",
+   "audio/sfx/crateHit_2.ogg",
+   "audio/sfx/crateHit_3.ogg",
+   "audio/sfx/crateHit_4.ogg"
+  ],
+  "crateBurst": [
+   "audio/sfx/crateBurst.ogg"
+  ],
+  "blockHit": [
+   "audio/sfx/blockHit_1.ogg",
+   "audio/sfx/blockHit_2.ogg",
+   "audio/sfx/blockHit_3.ogg",
+   "audio/sfx/blockHit_4.ogg"
+  ],
+  "hitStone": [
+   "audio/sfx/hitStone_1.ogg",
+   "audio/sfx/hitStone_2.ogg",
+   "audio/sfx/hitStone_3.ogg",
+   "audio/sfx/hitStone_4.ogg"
+  ],
+  "hitWood": [
+   "audio/sfx/hitWood_1.ogg",
+   "audio/sfx/hitWood_2.ogg",
+   "audio/sfx/hitWood_3.ogg",
+   "audio/sfx/hitWood_4.ogg"
+  ],
+  "hitGlass": [
+   "audio/sfx/hitGlass_1.ogg",
+   "audio/sfx/hitGlass_2.ogg",
+   "audio/sfx/hitGlass_3.ogg",
+   "audio/sfx/hitGlass_4.ogg"
+  ],
+  "hitMetal": [
+   "audio/sfx/hitMetal_1.ogg",
+   "audio/sfx/hitMetal_2.ogg",
+   "audio/sfx/hitMetal_3.ogg",
+   "audio/sfx/hitMetal_4.ogg"
+  ],
+  "blockBreak": [
+   "audio/sfx/blockBreak.ogg"
+  ],
+  "breakStone": [
+   "audio/sfx/breakStone_1.ogg",
+   "audio/sfx/breakStone_2.ogg",
+   "audio/sfx/breakStone_3.ogg"
+  ],
+  "breakWood": [
+   "audio/sfx/breakWood_1.ogg",
+   "audio/sfx/breakWood_2.ogg",
+   "audio/sfx/breakWood_3.ogg"
+  ],
+  "breakGlass": [
+   "audio/sfx/breakGlass_1.ogg",
+   "audio/sfx/breakGlass_2.ogg",
+   "audio/sfx/breakGlass_3.ogg"
+  ],
+  "breakMetal": [
+   "audio/sfx/breakMetal_1.ogg",
+   "audio/sfx/breakMetal_2.ogg",
+   "audio/sfx/breakMetal_3.ogg"
+  ],
+  "kingDie": [
+   "audio/sfx/kingDie.ogg"
+  ],
+  "soldierDie": [
+   "audio/sfx/soldierDie.ogg"
+  ],
+  "tntFuse": [
+   "audio/sfx/tntFuse.ogg"
+  ],
+  "tntExplode": [
+   "audio/sfx/tntExplode.ogg"
+  ],
+  "ballistaBreak": [
+   "audio/sfx/ballistaBreak.ogg"
+  ],
+  "ballistaFire": [
+   "audio/sfx/ballistaFire.ogg"
+  ],
+  "boltHit": [
+   "audio/sfx/boltHit_1.ogg",
+   "audio/sfx/boltHit_2.ogg",
+   "audio/sfx/boltHit_3.ogg"
+  ],
+  "boltMiss": [
+   "audio/sfx/boltMiss_1.ogg",
+   "audio/sfx/boltMiss_2.ogg",
+   "audio/sfx/boltMiss_3.ogg"
+  ],
+  "boltSplash": [
+   "audio/sfx/boltSplash.ogg"
+  ],
+  "splash": [
+   "audio/sfx/splash.ogg"
+  ],
+  "guardHit": [
+   "audio/sfx/guardHit.ogg"
+  ],
+  "shieldBreak": [
+   "audio/sfx/shieldBreak.ogg"
+  ],
+  "catapultHit": [
+   "audio/sfx/catapultHit.ogg"
+  ],
+  "pileHit": [
+   "audio/sfx/pileHit.ogg"
+  ],
+  "win": [
+   "audio/sfx/win.ogg"
+  ],
+  "lose": [
+   "audio/sfx/lose.ogg"
+  ]
+ },
+ "music": {
+  "menu": "audio/music/menu.ogg",
+  "game": "audio/music/game.ogg"
+ }
+}
